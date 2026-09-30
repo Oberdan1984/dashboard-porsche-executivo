@@ -49,3 +49,15 @@ Foi usado o **Codex com a skill de planilhas** para inspecionar e interpretar a 
 
 A foto do Panamera é carregada de um recurso da [Porsche Rocklin](https://rocklin.porsche.com/en/blog/new-2025-porsche-panamera-rocklin-ca-overview). A imagem, as fontes e o Plotly.js são externos; não há dependências locais.
 
+
+## Evidências visuais
+
+As capturas abaixo mostram a dashboard publicada e os resultados depois de aplicar Estado = CA e período iniciado em 2025-01-01.
+
+### Dashboard e filtros disponíveis
+
+![Dashboard publicada com filtros por estado, modelo, vendedor, status e período](https://github.com/user-attachments/assets/95009bc1-66ca-4f93-a03d-e44de3f50747)
+
+### Resultado do filtro aplicado
+
+![KPIs e gráficos atualizados com o filtro Estado = CA e período iniciado em 2025-01-01](https://github.com/user-attachments/assets/47e65e48-3c22-45eb-bd41-574a98ec5fc1)
